@@ -1,4 +1,4 @@
-<h1>Blakes Portfolio</h1><br>
+<h1>Blakes Data Science Portfolio</h1><br>
 
 <h3> Project 1:Analysis of Florida sea level if it was raising at an exponential rate.</h3<br> 
 <h4>- Goals of project 1:</h4> 
